@@ -132,7 +132,7 @@ library
       Web.Slack.Prelude
       Web.Slack.AesonUtils
   build-depends:
-      aeson >= 2.0 && < 2.2
+      aeson >= 2.0 && < 2.4
     , base >= 4.11 && < 4.19
     , base16-bytestring
     , bytestring
