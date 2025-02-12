@@ -5,3 +5,5 @@ cabal.project.local
 .pre-commit-config.yaml
 *.actual
 *.actual.json
+.aider*
+tags
